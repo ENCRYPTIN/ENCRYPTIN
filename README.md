@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm John, a full-stack developer based in San Francisco. I'm passionate about building great software and helping others do the same.
+I'm Sudheesh, a full-stack developer based in Kerala, India. I'm passionate about building great software and helping others do the same.
 
 ## Skills
 
